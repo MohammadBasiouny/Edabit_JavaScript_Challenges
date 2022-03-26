@@ -30,3 +30,14 @@
 ```javascript
 const addition = (a, b) => a + b;
 ```
+
+<br>
+
+**Challenge 2**
+<br>
+
+**Write a function that takes an integer minutes and converts it to seconds.**
+
+```javascript
+const convert = (minutes) => minutes * 60;
+```
