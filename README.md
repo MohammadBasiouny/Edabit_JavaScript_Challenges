@@ -41,3 +41,12 @@ const addition = (a, b) => a + b;
 ```javascript
 const convert = (minutes) => minutes * 60;
 ```
+
+**Challenge 3**
+<br>
+
+**Create a function that takes a number as an argument, increments the number by +1 and returns the result.**
+
+```javascript
+const addition = (num) => num + 1;
+```
