@@ -50,3 +50,12 @@ const convert = (minutes) => minutes * 60;
 ```javascript
 const addition = (num) => num + 1;
 ```
+
+**Challenge 4**
+<br>
+
+**Write a function that takes the base and height of a triangle and return its area.**
+
+```javascript
+const triArea = (base, height) => (base * height) / 2;
+```
