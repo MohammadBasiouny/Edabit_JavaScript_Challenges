@@ -68,3 +68,12 @@ const triArea = (base, height) => (base * height) / 2;
 ```javascript
 const calcAge = (age) => age * 365;
 ```
+
+**Challenge 6**
+<br>
+
+**Create a function that takes an array containing only numbers and return the first element.**
+
+```javascript
+const getFirstValue = (arr) => arr[0];
+```
