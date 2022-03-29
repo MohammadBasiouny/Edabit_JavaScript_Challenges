@@ -59,3 +59,12 @@ const addition = (num) => num + 1;
 ```javascript
 const triArea = (base, height) => (base * height) / 2;
 ```
+
+**Challenge 5**
+<br>
+
+**Create a function that takes the age in years and returns the age in days.**
+
+```javascript
+const calcAge = (age) => age * 365;
+```
